@@ -1,5 +1,6 @@
-h1, h3, p, a {
+* {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: black;
 }
 
 h1 {
@@ -15,7 +16,7 @@ h3 {
 
 p {
     color: black;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 a {
